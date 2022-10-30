@@ -1,0 +1,204 @@
+.one
+{
+	display:flex;
+	margin:160px;
+	border:2px solid black;
+	flex-direction:column;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.one .header
+{
+	display:flex;
+	flex-direction:row;
+}
+.one .header .b1
+{
+	height:20px;
+	width:50px;
+	background-color:blue;
+	margin:10px;
+}
+.one .header .b2
+{
+	height:20px;
+	width:50px;
+	background-color:blue;
+	margin:10px;
+	margin-left:850px;
+}
+.one .split
+{
+	display:flex;
+	flex-direction:column;
+}
+.one .split .split1
+{
+	display:flex;
+	flex-direction:column;
+	background-color:orange;
+}
+.one .split .split1 .dark
+{
+	height:50px;
+	width:250px;
+	background-color:white;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split .split1 .button
+{
+	height:20px;
+	width:50px;
+	background-color:pink;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split .split2
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.one .split .split2 .split21
+{
+	display:flex;
+	flex-direction:column;
+}
+.one .split .split2 .split21 .dark
+{
+	height:50px;
+	width:250px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:25px;
+	margin-bottom:5px;
+}
+.one .split .split2 .split21 .text
+{
+	height:50px;
+	width:250px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split .split2 .split22
+{
+	display:flex;
+	justify-content:center;
+}
+.one .split .split2 .split22 .box
+{
+	height:150px;
+	width:200px;
+	background-color:blue;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:60px;
+}
+.one .split .split3 
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.one .split .split3 .split31
+{
+	display:flex;
+	justify-content:center;
+}
+.one .split .split3 .split31 .box
+{
+	height:150px;
+	width:200px;
+	background-color:blue;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-right:60px;
+}
+.one .split .split3 .split32
+{
+	display:flex;
+	flex-direction:column;
+}
+.one .split .split3 .split32 .dark
+{
+	height:50px;
+	width:250px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:25px;
+	margin-bottom:5px;
+}
+.one .split .split3 .split32 .text
+{
+	height:50px;
+	width:250px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split .split4
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.one .split .split4 .split41
+{
+	display:flex;
+	flex-direction:column;
+}
+.one .split .split4 .split41 .dark
+{
+	height:50px;
+	width:250px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:25px;
+	margin-bottom:5px;
+}
+.one .split .split4 .split41 .text
+{
+	height:50px;
+	width:250px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split .split4 .split42
+{
+	display:flex;
+	justify-content:center;
+}
+.one .split .split4 .split42 .box
+{
+	height:150px;
+	width:200px;
+	background-color:blue;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:60px;
+}	
+.one .footer
+{
+	display:flex;
+	justify-content:center;
+	border-top:1px solid gray;
+	background-color:black;
+}
+.one .footer .text
+{
+	height:20px;
+	width:100px;
+	background-color:white;
+	margin:10px;
+}
